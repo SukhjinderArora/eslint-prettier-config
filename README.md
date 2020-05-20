@@ -20,7 +20,7 @@ To use this config:
 
 * Install `husky` and `lint-staged` to lint and format files before `git commit` using `yarn add -D husky lint-staged` or `npm install --save-dev husky lint-staged`
 
-* Remove `"eslintConfig"` property from `package.json`, if you are using `create-react-app`.
+* Remove `"eslintConfig"` property from `package.json` if you are using `create-react-app`.
 
 * Add these scripts in the `packages.json` scripts section:
     
